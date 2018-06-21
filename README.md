@@ -1,25 +1,28 @@
-total 1944
-drwxr-xr-x    5 gulo  staff     160  9 17  2016 GoPrj
-drwxr-xr-x    4 gulo  staff     128  6 22 00:38 HelloSimple
-drwxr-xr-x    9 gulo  staff     288  8 18  2017 TestPython
-drwxr-xr-x    4 gulo  staff     128  9 23  2016 WeChatPrj
-drwxr-xr-x   37 gulo  staff    1184  8 20  2017 atom
-drwxr-xr-x    3 gulo  staff      96 12 18  2016 expect_pro
-drwxr-xr-x   22 gulo  staff     704  2  8 01:16 go
-drwxr-xr-x    4 gulo  staff     128  9  3  2016 go-programming
-drwxr-xr-x    7 gulo  staff     224  2  6 00:29 myblog
-drwxr-xr-x   12 gulo  staff     384  4 29  2017 mysql
--rw-r--r--    1 gulo  staff  984072  9  3  2016 npm-debug.log
-drwxrwxrwx   11 gulo  staff     352  8 12  2016 opensource
--rwxr--r--    1 gulo  staff      38  9  3  2016 p.sh
--rw-r--r--    1 gulo  staff     583 10  2  2017 p.sh.asc
-drwxr-xr-x  198 gulo  staff    6336  7  1  2017 pics
-drwxr-xr-x  176 gulo  staff    5632  8 23  2016 ruby
-drwxr-xr-x   32 gulo  staff    1024  2 11 00:35 scrapy
-drwxr-xr-x   28 gulo  staff     896  9 17  2016 swift
-drwxr-xr-x   32 gulo  staff    1024 10 21  2017 tensorflow
-drwxr-xr-x    5 gulo  staff     160 12 17  2017 testScrapy
-drwxr-xr-x    8 gulo  staff     256 10 21  2017 testTensorFlow
-drwxr-xr-x    6 gulo  staff     192  6  4  2017 tools
-drwxr-xr-x   18 gulo  staff     576  5  7  2017 tushare
-drwxr-xr-x    5 gulo  staff     160 11 24  2016 workspace
+1944
+GoPrj
+HelloSimple
+用户数据
+TestPython
+WeChatPrj
+atom
+expect_pro
+go
+go-programming
+myblog
+mysql
+npm-debug.log
+opensource
+p.sh
+p.sh.asc
+pics
+ruby
+scrapy
+swift
+tensorflow
+testScrapy
+testTensorFlow
+tools
+tushare
+workspace
+虚拟机
+技术书籍
